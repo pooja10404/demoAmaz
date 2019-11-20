@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="22.272172">
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar." time="5.107352">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "amazonLogo" is present.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 2" time="3.159102">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "searchBox" is present..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 3" time="2.709164">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "cart" is present...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 4" time="2.68546">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "tryPrime" is present...........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 5" time="2.916387">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "returnAndOrder" is present.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 6" time="2.931014">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "signinOption" is present.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="BasicUIVerification" name="Check landing page UI for top menubar. 7" time="2.763693">
+<system-out><![CDATA[Given Open Application......................................................passed
+Then Verify "hamburger" is present..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

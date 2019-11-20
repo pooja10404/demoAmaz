@@ -1,0 +1,335 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-11-20T10:56:04.761Z",
+        "line": 9,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3640124372,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 467545319,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"amazonLogo\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"amazonLogo\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:08.899Z",
+        "line": 10,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3521232246,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1077737159,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"searchBox\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"searchBox\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:13.501Z",
+        "line": 11,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4003065220,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 558165215,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"cart\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"cart\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:18.064Z",
+        "line": 12,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4014607037,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 485183765,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"tryPrime\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"tryPrime\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:22.566Z",
+        "line": 13,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3034482363,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 255169729,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"returnAndOrder\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"returnAndOrder\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:25.858Z",
+        "line": 14,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2800312136,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 406338732,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"signinOption\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"signinOption\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-11-20T10:56:29.066Z",
+        "line": 15,
+        "name": "Create new document using create option",
+        "description": "",
+        "id": "basicuiverification;create-new-document-using-create-option;;8",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2697915566,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Application",
+            "match": {
+              "location": "CommonSteps.open_Application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 245970446,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Verify \"hamburger\" is present",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"hamburger\"",
+                  "offset": 7
+                }
+              ],
+              "location": "LandinPageSteps.verify_is_present(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BD1"
+          }
+        ]
+      }
+    ],
+    "name": "BasicUIVerification",
+    "description": "",
+    "id": "basicuiverification",
+    "keyword": "Feature",
+    "uri": "file:src/feature/AmazonUICheck.feature",
+    "tags": []
+  }
+]

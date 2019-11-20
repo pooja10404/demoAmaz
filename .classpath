@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-core-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-html-0.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-junit-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/gherkin-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/datatable-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/datatable-dependencies-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-expressions-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/cucumber-java-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/lib/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
